@@ -1,0 +1,53 @@
+<item>
+<title>RED BULL TV</title>
+<link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-n4FaS2j-yO8/VzHqUSPlufI/AAAAAAABFSw/Pjq8XfBn0xE--35tFe_rhpP-4BPRrgW4ACLcB/s1600/Red+Bull+TV.png</thumbnail>
+<fanart>https://www.redbull.tv/img/rbtv-live-share.jpg</fanart
+</item>
+
+<item>
+<title>OLYMPIC CHANNEL</title>
+<link>http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png</fanart
+</item>
+
+
+<item>
+<title>FIGHTBOX</title>
+<link>http://ott-cdn.ucom.am/s86/index.m3u8</link>
+<thumbnail>https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png</thumbnail>
+<fanart>https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png</fanart
+</item>
+
+
+<item>
+<title>GONE FISHING</title>
+<link>https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/xLC8ulA.png</thumbnail>
+<fanart>https://i.imgur.com/xLC8ulA.png</fanart
+</item>
+
+
+<item>
+<title>GONE HUNTING</title>
+<link>https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/IDgT6aq.png</thumbnail>
+<fanart>https://i.imgur.com/IDgT6aq.png</fanart
+</item>
+
+
+<item>
+<title>LIVING OUTDOORS</title>
+<link>https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/KGaH3pH.png</thumbnail>
+<fanart>https://i.imgur.com/KGaH3pH.png</fanart
+</item>
+
+
+
+<dir>
+<title>[COLORwhite][B]SPORTS STREAMS[/COLOR][/B]</title>
+<sport_stream>games</sport_stream>
+<thumbnail>http://www.deceitaddon.co.uk/Artwork/Mainart/sportsstreams.png</thumbnail>
+</dir>
