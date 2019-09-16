@@ -1,5 +1,4 @@
-M3U
-
+#EXTM3U
 #EXTINF:-1,PT: Novidades Vídeo Clube
 plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]M.TEAM[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://leaderpro.pro:25461/live/Nilson/12345/88539.m3u8
 #EXTINF:-1,???? NACIONAIS ????
