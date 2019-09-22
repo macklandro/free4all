@@ -5,3 +5,12 @@
 <thumbnail>https://i.ytimg.com/vi/a22wIPKuI8I/hqdefault.jpg?sqp=-oaymwEmCNACELwBSFryq4qpAxgIARUAAAAAGAElAADIQj0AgKJDeAGAAQE=&rs=AOn4CLDHa70pIzovy5y5xFaNs4hmvhdXGg</thumbnail>
 <fanart>https://i.ytimg.com/vi/a22wIPKuI8I/hqdefault.jpg?sqp=-oaymwEmCNACELwBSFryq4qpAxgIARUAAAAAGAElAADIQj0AgKJDeAGAAQE=&rs=AOn4CLDHa70pIzovy5y5xFaNs4hmvhdXGg</fanart>
 </item>
+
+
+<item>
+<title>FILMES [COLOR aqua][B]DISNEY[/B] [/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=filmes+disney+completos+em+portugues/</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/S7hnm3dV7uk/hqdefault.jpg?sqp=-oaymwEmCNACELwBSFryq4qpAxgIARUAAAAAGAElAADIQj0AgKJDeAGAAQE=&rs=AOn4CLA1IxkMyZWamutRgWuEnndQmV-uiw</thumbnail>
+<fanart>https://i.ytimg.com/vi/S7hnm3dV7uk/hqdefault.jpg?sqp=-oaymwEmCNACELwBSFryq4qpAxgIARUAAAAAGAElAADIQj0AgKJDeAGAAQE=&rs=AOn4CLA1IxkMyZWamutRgWuEnndQmV-uiw</fanart>
+</item>
