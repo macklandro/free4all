@@ -47,3 +47,12 @@
 <thumbnail>https://i.ytimg.com/vi/34oedLjAOQw/maxresdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/macklandro/free4all/master/youtube</externallink>
 </item>
+
+
+<item>
+<title>VIDEOS [COLOR aqua][B]DAILY-MOTION[/B] [/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.dailymotion_com/?url=%VIDEOID%&mode=playVideo/x3mae42</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/1/15/Logo-Dailymotion.png</thumbnail>
+<fanart></fanart>
+</item>
