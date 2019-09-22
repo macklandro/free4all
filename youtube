@@ -38,6 +38,16 @@
 <fanart></fanart>
 </item>
 
+
+
+<item>
+<title>DOCUMENTARIOS [COLOR aqua][B]testte[/B] [/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.dailymotion_com/?url=%VIDEOID%&mode=playVideo/x3mae42</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/a9100V6yNuE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAODIXeaMsKw3VZlw-_oUyQTopwQw</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>DOCUMENTARIOS [COLOR aqua][B]INCRIVEIS[/B] [/COLOR]</title>
 <link>ignore</link>
